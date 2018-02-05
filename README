@@ -1,0 +1,10 @@
+"""
+ """revlst function reverse the
+    order of item for the given list"""
+
+"""evenlst function print the
+    even number from the given list to the new list"""
+
+"""oddlst function print the
+        odd number from the given list to the new list"""
+"""
